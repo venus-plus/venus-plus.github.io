@@ -1,0 +1,221 @@
+# main links
+t:
+  en:
+    main:
+      - title: "Quick Start"
+        url: /docs/quick-start/
+      - title: "Users"
+        url: /users/
+      - title: "Developers"
+        url: /developers/
+      - title: "Blogs"
+        url: /year-archive/
+
+    docs:
+      - title: "Quick Start"
+        url: /docs/quick-start/
+      - title: "Develop microservice application in minutes"
+        url: /docs/quick-start-bmi/
+      - title: "Advance microservice development"
+        url: /docs/quick-start-advance/
+        children:
+          - title: Load Balance
+            url: /docs/quick-start-advance/load-balance/
+          - title: Flow Control
+            url: /docs/quick-start-advance/flow-control/
+          - title: Service Management
+            url: /docs/quick-start-advance/service-management/
+          - title: Distributed Tracing 
+            url: /docs/quick-start-advance/distributed-tracing/
+      - title: "Data Consistency Solution"
+        url: /docs/quick-start-dataconsistency/
+
+    users:
+      - title: User Guide
+        children:
+          - title: Java Chassis Architecture
+            url: /users/
+          - title: Setup Environment
+            url: /users/setup-environment/
+          - title: FAQ
+            url: /users/faq/
+
+      - title: Develop Service Provider
+        children:
+          - title: Service Definition
+            url: /users/service-definition/
+          - title: Service Contract
+            url: /users/service-contract/
+          - title: Develop Microservice with SpringMVC
+            url: /users/develop-with-springmvc/
+          - title: Develop Microservice with JAX-RS
+            url: /users/develop-with-jax-rs/
+          - title: Develop Microservice with Transparent RPC
+            url: /users/develop-with-transparent-rpc/
+          - title: Service Interface Constraints
+            url: /users/service-interface-constraints/
+          - title: Service Configurations
+            url: /users/service-configurations/
+          - title: Communicate Protocol
+            url: /users/communicate-protocol/
+          - title: Application Boot Up Process
+            url: /users/application-boot-process/
+          - title: Service Heartbeat
+            url: /users/service-heartbeat/
+
+      - title: Develop Service Consumer
+        children:
+          - title: Develop with Rest Template
+            url: /users/develop-with-rest-template/
+          - title: Develop with Transparent RPC
+            url: /users/develop-with-rpc/
+          - title: Use Service Contract
+            url: /users/use-service-contract/
+          - title: Invoke Control
+            url: /users/invoke-control/
+          - title: Communicate Channel
+            url: /users/communicate-channel/
+
+      - title: General Development
+        children:
+          - title: Develop and Test in Local Environment
+            url: /users/local-develop-test/
+          - title: Use ServiceComb in Spring Boot
+            url: /users/use-servicecomb-in-spring-boot/
+          - title: Distributed Tracing
+            url: /users/distributed-tracing/
+
+      - title: Edging Service
+        children:
+          - title: confd and Nginx
+            url: /users/edging-service/nginx/
+          - title: Zuul
+            url: /users/edging-service/zuul/
+
+      - title: Deployment
+        children:
+          - title: Run Mode
+            url: /users/run-mode/
+
+      - title: Huawei Public Cloud
+        children:
+          - title: FAQ
+            url: /users/huawei-cloud-faq/
+
+    developers:
+      - title: "Developer Guide"
+        url: /developers/
+      - title: "Develop Environment Setup"
+        url: /developers/setup-develop-environment/
+      - title: "Code Submit Guide"
+        url: /developers/submit-codes/
+
+  cn:
+    main:
+      - title: "快速入门"
+        url: /cn/docs/quick-start/
+      - title: "用户手册"
+        url: /cn/users/
+      - title: "开发者手册"
+        url: /cn/developers/
+      - title: "博文"
+        url: /cn/year-archive/
+
+    docs:
+      - title: "快速入门"
+        url: /cn/docs/quick-start/
+      - title: "微服务应用快速开发"
+        url: /cn/docs/quick-start-bmi/
+      - title: "微服务开发进阶"
+        url: /cn/docs/quick-start-advance/
+        children:
+          - title: "负载均衡"
+            url: /cn/docs/quick-start-advance/load-balance/
+          - title: "流量控制"
+            url: /cn/docs/quick-start-advance/flow-control/
+          - title: "服务治理"
+            url: /cn/docs/quick-start-advance/service-management/
+          - title: "分布式调用链追踪"
+            url: /cn/docs/quick-start-advance/distributed-tracing/
+      - title: "数据一致性解决方案"
+        url: /cn/docs/quick-start-dataconsistency/
+
+    users:
+      - title: 用户手册
+        children:
+          - title: Java Chassis系统架构
+            url: /cn/users/
+          - title: 环境配置
+            url: /cn/users/setup-environment/
+          - title: 常见问题
+            url: /cn/users/faq/
+
+      - title: 开发服务提供者
+        children:
+          - title: 服务定义
+            url: /cn/users/service-definition/
+          - title: 服务契约
+            url: /cn/users/service-contract/
+          - title: 用SpringMVC开发微服务
+            url: /cn/users/develop-with-springmvc/
+          - title: 用JAX-RS开发微服务
+            url: /cn/users/develop-with-jax-rs/
+          - title: 用透明RPC开发微服务
+            url: /cn/users/develop-with-transparent-rpc/
+          - title: 服务接口约束
+            url: /cn/users/service-interface-constraints/
+          - title: 服务配置
+            url: /cn/users/service-configurations/
+          - title: 通信协议
+            url: /cn/users/communicate-protocol/
+          - title: 程序启动逻辑
+            url: /cn/users/application-boot-process/
+          - title: 服务心跳
+            url: /cn/users/service-heartbeat/
+
+      - title: 开发服务消费者
+        children:
+          - title: 使用Rest Template方式开发
+            url: /cn/users/develop-with-rest-template/
+          - title: 使用RPC方式开发
+            url: /cn/users/develop-with-rpc/
+          - title: 使用服务契约
+            url: /cn/users/use-service-contract/
+          - title: 调用控制
+            url: /cn/users/invoke-control/
+          - title: 通信信道
+            url: /cn/users/communicate-channel/
+
+      - title: 通用开发
+        children:
+          - title: 本地开发与测试
+            url: /cn/users/local-develop-test/
+          - title: 在Spring Boot中使用ServiceComb
+            url: /cn/users/use-servicecomb-in-spring-boot/
+          - title: 分布式调用链追踪
+            url: /cn/users/distributed-tracing/
+
+      - title: 服务能力开放
+        children:
+          - title: 使用confd和Nginx做边缘服务
+            url: /cn/users/edging-service/nginx/
+          - title: 使用Zuul做边缘服务
+            url: /cn/users/edging-service/zuul/
+
+      - title: 部署
+        children:
+          - title: 运行模式
+            url: /cn/users/run-mode/
+
+      - title: 华为公有云
+        children:
+          - title: 常见问题
+            url: /cn/users/huawei-cloud-faq/
+
+    developers:
+      - title: "开发者指南"
+        url: /cn/developers/
+      - title: "开发环境准备"
+        url: /cn/developers/setup-develop-environment/
+      - title: "代码提交指南"
+        url: /cn/developers/submit-codes/
