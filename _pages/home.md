@@ -6,13 +6,13 @@ permalink: /
 header:
   overlay_image: /assets/images/servicecomb-banner-s.png
   caption:
-excerpt: 'Venus Plus 介绍---------------.
+excerpt: 'Venus-程序员女神，企业级微服务解决方案.
 
 <div class="excerpt-label">Latest release:</div>
 <div class="button-group">
-<a href="https://github.com/ServiceComb/java-chassis/releases/tag/0.2.0" class="home-button btn--info">Java SDK v0.2.0</a>
-<a href="https://github.com/ServiceComb/service-center/releases/tag/0.1.1" class="home-button btn--info">Service Center v0.1.1</a>
-<a href="https://github.com/ServiceComb/ServiceComb-Saga/releases/tag/saga-0.0.1" class="home-button btn--info">Saga v0.0.1</a>
+<a href="#" class="home-button btn--info">Java SDK v0.2.0</a>
+<a href="#" class="home-button btn--info">Service Center v0.1.1</a>
+<a href="#" class="home-button btn--info">Saga v0.0.1</a>
 </div>'
 
 intro:

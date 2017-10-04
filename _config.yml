@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Venus Plus Framework"
+title                    : "Venus-维纳斯女神"
 title_separator          : "-"
 name                     : "ServiceComb2--" # &name is a YAML anchor which can be *referenced later
 description              : "The homepage of ServiceComb"
