@@ -1,6 +1,6 @@
 ---
 layout: splash
-lang: en
+lang: cn
 ref: home
 permalink: /
 header:
