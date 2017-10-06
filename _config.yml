@@ -9,8 +9,8 @@
 locale                   : "zh-CN"
 title                    : "Venus-维纳斯女神"
 title_separator          : "-"
-name                     : "ServiceComb2--" # &name is a YAML anchor which can be *referenced later
-description              : "The homepage of ServiceComb"
+name                     : "Venus Plus" # &name is a YAML anchor which can be *referenced later
+description              : "The homepage of Venus"
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ServiceComb/servicesomb.github.io"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ServiceComb
+  github           : venus-plus
   google_plus      :
   keybase          :
   instagram        :

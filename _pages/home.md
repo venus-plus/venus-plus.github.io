@@ -6,13 +6,13 @@ permalink: /
 header:
   overlay_image: /assets/images/servicecomb-banner-s.png
   caption:
-excerpt: 'Venus-程序员女神，企业级微服务解决方案.
+excerpt: 'Venus-企业级Java中间件体系，包括Venus Framework，Venus Boot以及Venus Cloud微服务解决方案等.
 
 <div class="excerpt-label">Latest release:</div>
 <div class="button-group">
-<a href="#" class="home-button btn--info">Java SDK v0.2.0</a>
-<a href="#" class="home-button btn--info">Service Center v0.1.1</a>
-<a href="#" class="home-button btn--info">Saga v0.0.1</a>
+<a href="#" class="home-button btn--info">快速入门 </a>
+<a href="#" class="home-button btn--info">用户手册</a>
+<a href="#" class="home-button btn--info">开发手册</a>
 </div>'
 
 intro:
