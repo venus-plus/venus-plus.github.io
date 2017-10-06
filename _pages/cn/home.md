@@ -6,7 +6,7 @@ permalink: /cn/
 header:
   overlay_image: /assets/images/servicecomb-banner-s.png
   caption:
-excerpt: 'Venus 企业级Java中间件体系，包括Venus Framework，Venus Boot以及Venus Cloud微服务解决方案等。
+excerpt: 'Venus-企业级Java中间件体系，包括Venus Framework，Venus Boot以及Venus Cloud微服务解决方案等。
 
 
 <div class="excerpt-label">最新发布版本：</div>
@@ -44,7 +44,25 @@ feature_row:
     alt: "多语言"
     title: "多语言"
     excerpt: "Java/Go框架级别支持。"
+
+  - image_path: /assets/images/servicecomb-feature-openapi.png
+    alt: "标准"
+    title: "服务契约"
+    url: /cn/users/service-contract/
+    excerpt: "基于 [OpenAPI](https://www.openapis.org) 的服务契约保障。"
+  - image_path: /assets/images/servicecomb-feature-quickstart.png
+    alt: "高效"
+    title: "快速开发"
+    url: /cn/docs/quick-start/
+    excerpt: "支持多种服务框架，快速构建云化应用。"
+  - image_path: /assets/images/servicecomb-feature-multiLanguage.png
+    alt: "多语言"
+    title: "多语言"
+    excerpt: "Java/Go框架级别支持。"
 ---
+
+
+
 
 {% include feature_row id="intro" type="center" %}
 

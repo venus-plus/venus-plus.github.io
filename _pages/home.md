@@ -5,8 +5,10 @@ ref: home
 permalink: /
 header:
   overlay_image: /assets/images/servicecomb-banner-s.png
+  overlay_image: /assets/images/servicecomb-banner-s.png
   caption:
 excerpt: 'Venus-企业级Java中间件体系，包括Venus Framework，Venus Boot以及Venus Cloud微服务解决方案等.
+
 
 <div class="excerpt-label">Latest release:</div>
 <div class="button-group">

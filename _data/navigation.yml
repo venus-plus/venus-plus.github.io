@@ -118,7 +118,7 @@ t:
         url: /cn/users/
       - title: "开发者手册"
         url: /cn/developers/
-      - title: "博文"
+      - title: "博客"
         url: /cn/year-archive/
 
     docs:
